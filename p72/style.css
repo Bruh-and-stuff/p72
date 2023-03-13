@@ -1,0 +1,9 @@
+#video{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.nav_the_bar{
+    position: sticky;
+    top: 0;
+}
